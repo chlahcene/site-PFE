@@ -1,0 +1,53 @@
+select {
+width : 150px ;
+margin: 1px;
+}
+
+option[value="PFE"]{
+	font-weight: bold ;
+}
+
+option[value="MASTER"]{
+	font-weight: bold ;
+}
+
+table{
+	border-collapse: collapse;
+	margin: auto;
+	border: 1px solid black;
+
+}
+
+th,td{
+  height: 29px;
+  width : 150px ;
+  margin: 1px;
+}
+
+#result{
+	border: 1px solid black;
+}
+
+input[type="submit"]{
+	width: 100px;
+	display: block;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 10px;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #BFCAD8;
+    border-radius: 5px;
+}
+
+input[type="submit"]:hover{
+	background-color: #555EE5;
+}
+
+#stat_form{
+	margin: 0 auto;
+	width: 400px;
+	border: 1px solid black;
+	padding: 10px;
+}

@@ -1,0 +1,33 @@
+.bg{
+	height: 100%;
+	width: 100%;
+}
+
+.form-container{
+
+margin-top: 30%;
+border :4px solid;
+padding: 30px;
+border-color: #088A85;
+
+}
+.logoesi{
+	width: 8%;
+	height:8%;
+	margin-right: 3%;
+}
+
+
+.nav-link:hover{
+
+	color: white;
+}
+
+.footer{
+background-color: #e0e0e0;
+}
+
+.carousel-inner{
+
+}
+

@@ -1,0 +1,42 @@
+.HautPage{
+background-color: #2E2E2E;
+color: white;	
+font-family: Tahoma;
+font-size: 11pt;
+height: 30px;
+width: 100%;
+}
+.SousHautPage{
+background-color: white;
+margin-left: 90%;
+height: 30px;
+width:150px;
+
+}
+
+.onglets{
+
+font-family: impact;
+
+}
+.inonglet:hover{
+	text-decoration-color: #088A85;
+	background-color: white;
+}
+
+
+#haut{
+color: white;	
+font-family: Tahoma;
+margin-left: 45%;
+position: relative;
+top: 4.3px
+}
+
+#loginicon{
+position: absolute;
+height: 23px;
+width: 30px;
+top: 11px;
+right: 90px
+}

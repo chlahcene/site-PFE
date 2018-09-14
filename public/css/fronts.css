@@ -1,0 +1,244 @@
+.HautPage{
+background-color: #424242;
+color: white;	
+font-family: Tahoma;
+font-size: 11pt;
+height: 20px;
+width: 100%;
+}
+.SousHautPage{
+background-color: #088A68;
+margin-left: 90%;
+height: 20px;
+width:150px;
+
+}
+
+.onglets{
+
+font-family: impact;
+
+}
+.Titre{
+
+	position: relative;
+	font-size: 20pt;
+	font-family: Tahoma;
+    text-align: left;
+    top:55px;
+    margin-left: 12%;
+  color: #062d2b;
+}
+.Profil{
+
+  position: relative;
+  font-size: 13pt;
+  font-family: Tahoma;
+    text-align: left;
+    top:55px;
+    margin-left: 85%;
+  color: #062d2b;
+  position: absolute;
+}
+
+.btn-group .button {
+    background-color: #088A85; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    float: left;
+    position: relative;
+    top: 20px;
+
+}
+
+.btn-group .button:hover {
+    background-color: #0B615E;
+    position: relative;
+
+}
+.form .button{
+
+align-items: center;
+position: relative;;
+
+}
+
+
+#haut{
+color: white;	
+font-family: Tahoma;
+font-size: 9pt;
+margin-left: 45%;
+position: relative;
+top: -1px;
+
+}
+
+#loginicon{
+position: absolute;
+height: 16px;
+width: 23px;
+top: 11px;
+right: 90px
+}
+
+.pwd{
+background-color: #088A85;
+height: 25px;
+width: 100%;
+margin-top: 95px;
+margin-right: 0%;
+position: absolute;
+
+}
+#interpwd{
+color: white;
+font-family: Tahoma;
+font-size: 9pt;
+position: relative;
+top: 10%;
+left:10%;
+text-decoration: none;
+}
+.background{
+position: relative;
+
+}
+
+.Login{
+
+background-color: white;
+background: url("../image/back2.jpg");
+height: 65%;
+width: 70%;
+position: absolute;
+top: 30%;
+margin-left: 14%;
+border-style: solid;
+border-width: 4px;
+border-color: #088A85
+}
+
+
+
+
+
+.form {
+  display: block;
+  width: 400px;
+  background-color: ;
+  padding:  0;
+  text-align: center;
+}
+
+.form .form-title {
+  text-align: center;
+  padding: 5px;
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+.form label {
+  color: black;
+}
+
+.form input[type=text], .form input[type=password] {
+  display: block;
+}
+
+input[type=text], input[type=password] {
+  display: inline-block;
+  color: black;
+  padding: 10px;
+  width: 350px;
+  height: 50px;
+  box-sizing: border-box;
+  background-color: #088A85;
+  border: none;
+  border-radius: 2px;
+  margin: 10px auto;
+  transition:background-color 0.5s ease;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #04B4AE;
+}
+
+.ModifierProfil{
+
+height: 27px;
+width: 116px;
+position: absolute;
+margin-left: 85%;
+top: 80px;
+background-color:#088A85; 
+
+}
+
+
+
+
+
+
+::-webkit-input-placeholder {
+   color: white;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: white;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: white;  
+}
+
+:-ms-input-placeholder {  
+   color: white;  
+}
+
+
+
+.footer{
+  background-color: #292c2f;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+  box-sizing: border-box;
+  width: 100%;
+  text-align: center;
+  font: normal 18px sans-serif;
+
+  padding: 10px;
+  margin-top: 60px;
+  position: absolute;
+}
+
+.footer .footer-slogan{
+  color:  #8d9093;
+  font-size: 20px;
+  margin: 0;
+}
+
+.footer .footer-ESI{
+  color:  #8f9296;
+  font-size: 15px;
+  margin: 0;
+}
+
+.footer .footer-links{
+  list-style: none;
+  font-weight: bold;
+  color:  #ffffff;
+  padding: 20px 0 23px;
+  margin: 0;
+}
+
+.footer .footer-links a{
+  display:inline-block;
+  text-decoration: none;
+  color: inherit;
+}

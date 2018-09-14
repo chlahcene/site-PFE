@@ -1,0 +1,26 @@
+.bg{
+	height: 100%;
+	width: 100%;
+}
+
+.form-container{
+
+margin-top: 30%;
+border :2px solid;
+padding: 30px;
+
+}
+.logoesi{
+	width: 8%;
+	height:8%;
+	margin-right: 3%;
+
+}
+
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   background:#6cf;
+}
+

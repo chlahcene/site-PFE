@@ -1,0 +1,126 @@
+select {
+width : 150px ;
+margin: 1px;
+}
+
+
+table{
+  border-collapse: collapse;
+  margin: auto;
+}
+
+th,td{
+  height: 29px;
+  width : 150px ;
+  margin: 1px;
+}
+
+input[type="submit"]{
+  width: 100px;
+  display: block;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 10px;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #BFCAD8;
+    border-radius: 5px;
+}
+
+input[type="submit"]:hover{
+  background-color: #555EE5;
+  
+}
+
+.submit input[disabled]{
+  width: 100px;
+  display: block;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 10px;
+    color: grey;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #BFCAD8;
+    border-radius: 5px;
+}
+
+.submit input[disabled]:hover{
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 10px;
+    color: grey;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #BFCAD8;
+    border-radius: 5px;
+}
+
+
+input[type="button"]{
+   border-radius:50%;
+   height: 30px;
+   width: 30px;
+   display: block;
+   margin:0 auto;
+   box-shadow: 0px 3px 8px #aaa, inset 0px 2px 3px #fff;    
+   font: 18px Tahoma bold;
+   color: #a7a7a7;
+}
+
+input[type="button"]:hover{
+    background-color: #555EE5;
+}
+
+input[value="-"]:hover{
+    background-color: red;
+}
+
+.signe_plus input[disabled]
+{
+   border-radius:50%;
+   height: 30px;
+   width: 30px;
+   display: block;
+   margin:0 auto;
+   box-shadow: 0px 3px 8px #aaa, inset 0px 2px 3px #fff;    
+   font: 18px Tahoma bold;
+   background-color: grey;
+}
+
+.signe_plus input[disabled]:hover
+{
+   border-radius:50%;
+   height: 30px;
+   width: 30px;
+   display: block;
+   margin:0 auto;
+   box-shadow: 0px 3px 8px #aaa, inset 0px 2px 3px #fff;    
+   font: 18px Tahoma bold;
+   background-color: grey;
+}
+
+acronym{
+   text-decoration:none;
+}
+
+#legend{
+    display: block;
+    margin: auto;
+    font-family: Times New Roman;
+    font-size: 10px;
+    background-color: white;
+    border-style: double;
+    border-color: rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 5px #444;
+}
+
+#page_form{
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 5px #444;
+
+}
